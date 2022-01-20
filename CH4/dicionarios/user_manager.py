@@ -1,4 +1,4 @@
-from funcoes import *
+from funcoes.funcoes_dicionarios import *
 usuarios = {}
 opcao_cadastro = ''
 
